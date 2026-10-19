@@ -1,4 +1,5 @@
-# Sandwich Shop - a very simple java app
+Sandwich Shop - a very simple java app
+======================================
 
 Created during a yearup bootcamp, this app demonstrates the use of:
 
